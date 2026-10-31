@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ProductGraphQLApi/ProductGraphQLApi.csproj" />
+  <Project Path="ProductGrpcService/ProductGrpcService.csproj" />
+</Solution>
