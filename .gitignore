@@ -31,3 +31,9 @@ logs/
 # Local certificates
 *.pfx
 *.pem
+
+# Ignore HTTP requests file
+requests.http
+
+# Ignore appsettings.json in both projects
+**/appsettings.json
