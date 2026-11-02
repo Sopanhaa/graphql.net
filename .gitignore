@@ -1,6 +1,33 @@
+# .NET build outputs
 **/bin/
 **/obj/
+
+# IDE files and user settings
 .vs/
+.idea/
+.vscode/
 *.user
+*.suo
+*.rsuser
+
+# Local environment and development settings
+.env
+.env.*
+appsettings.Development.json
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Logs
+*.log
+logs/
+
+# Local certificates
 *.pfx
 *.pem
