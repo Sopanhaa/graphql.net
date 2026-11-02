@@ -32,8 +32,9 @@ logs/
 *.pfx
 *.pem
 
-# Ignore HTTP requests file
+# Local request and SDK files
 requests.http
+global.json
 
 # Ignore appsettings.json in both projects
 **/appsettings.json
